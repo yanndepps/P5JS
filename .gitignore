@@ -1,0 +1,6 @@
+*.svg
+*.png
+*.jpg
+*.tern-port
+*.tern-project
+*/libraries

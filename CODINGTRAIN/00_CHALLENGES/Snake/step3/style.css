@@ -1,0 +1,13 @@
+body {
+  background:rgb(109,146,117);
+  font-family: 'Press Start 2P', cursive;
+  background-color: rgb(109,146,117);
+  /* font-size: 24px; */
+  text-align:center;
+}
+canvas {
+  display: block;
+  margin: 5% auto;
+  box-shadow: 1px 3px 36px 5px rgba(0,0,0,0.75);
+  border: 5px solid rgb(285,181,62);
+}
