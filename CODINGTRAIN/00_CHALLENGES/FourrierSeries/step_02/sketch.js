@@ -1,5 +1,5 @@
 // Fourrier Series : Step_02
-// angle or time : time is moving forward
+
 let time = 0;
 let wave = [];
 let slider;
@@ -13,7 +13,6 @@ function draw() {
     background(0);
     translate(150, 200);
 
-    // polar coordinates
     let x = 0;
     let y = 0;
 
