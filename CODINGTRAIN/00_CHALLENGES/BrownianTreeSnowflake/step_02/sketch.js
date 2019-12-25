@@ -46,9 +46,7 @@ function draw() {
       let d = dist(mx, my, pmx, pmy);
       let sw = map(d, 0, 4, 4, 1);
       strokeWeight(sw);
-      push();
       line(mx, my, pmx, pmy);
-      pop();
       push();
       scale(1,-1);
       line(mx, my, pmx, pmy);
