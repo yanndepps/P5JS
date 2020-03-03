@@ -1,4 +1,7 @@
-// paper loops - perlin topology ©kgolid
+
+//  paper loops - perlin topology ©kgolid
+
+
 
 let sketch = function(p) {
     let width = 1400;
@@ -234,4 +237,7 @@ let sketch = function(p) {
     }
 };
 
+
+
 new p5(sketch);
+
