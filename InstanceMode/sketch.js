@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { polygon } from './utils.js';
 
 new p5(p5 => {
