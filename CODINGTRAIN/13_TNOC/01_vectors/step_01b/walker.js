@@ -4,7 +4,6 @@
 
 export class Walker {
   constructor(p5, x, y) {
-    // this.p5 = p5;
     this.pos = p5.createVector(x, y);
   }
 

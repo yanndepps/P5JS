@@ -11,8 +11,6 @@ new p5(p5 => {
   p5.draw = () => {
     const { width, height } = p5;
     const dim = Math.min(width, height);
-    // const x = width / 2;
-    // const y = height / 2;
     walker.update();
     walker.show(p5, dim * 0.01);
   };
