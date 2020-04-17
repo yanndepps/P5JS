@@ -8,11 +8,11 @@ function setup() {
   createCanvas(440, 600);
   background('#1c1c1c');
   noStroke();
-  
+
   const margin = height / 20;
   const allWidth = width - 3 * margin;
   const allHeight = height - 4 * margin;
-  const moduleWidth = allWidth / 2; 
+  const moduleWidth = allWidth / 2;
   const moduleHeight = allHeight / 3;
   const crnRad = 8;
 
