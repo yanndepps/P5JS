@@ -1,13 +1,8 @@
+.DS_Store
 *.svg
 *.png
 *.jpg
-*.tern-port
-*.tern-project
+*.org
 GolanL/
-MAKE/
 Reas/
-mathrose/
-perlinArcs/
-polar917/
 .log/
-tags
